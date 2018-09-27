@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cff33ffccShagu|cffffffffClick
+## Author: Shagu
+## Notes: Clicking for no reason. The ultimate timesink.
+## Version: 1.0
+## SavedVariablesPerCharacter: ShaguClick_SaveGame
+
+# main
+ShaguClick.lua
